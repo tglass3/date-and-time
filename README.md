@@ -8,7 +8,3 @@
 
 ## Citations
 * [Favicon Generator](https://favicon.io/)
-* [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-
-## License
-[The MIT License](https://mit-license.org)
