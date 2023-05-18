@@ -6,17 +6,6 @@
 
 /* Layout  */
 main {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  /* verrtical center   */
-  align-content: center;
-  /*  extend to viewport height  */
-  height: 100vh;
-}
 
-main time {
-/*  center content  */
-  text-align: center;
 }
-
 
