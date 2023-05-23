@@ -9,6 +9,12 @@ body {
   justify-content: center;
   align-content: center;
   height: 100vh;
+  /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=1a3250&c2=0d1e35&gt=r&gd=dcc
+*/
+background: #1A3250;
+background: radial-gradient(at center, #1A3250, #0D1E35);
 }
 
 /* Layout  */
