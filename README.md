@@ -7,4 +7,4 @@
 * Explore pro/cons to _frameworks_
 
 ## Citations
-* [Favicon Generator](https://favicon.io/)
+* [Favicon Image by Miguel Á. Padriñán](https://favicon.io/](https://www.pexels.com/photo/photo-of-golden-cogwheel-on-black-background-3785930/)
