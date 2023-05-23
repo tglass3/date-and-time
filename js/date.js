@@ -62,10 +62,12 @@ const dayOfWeek = document.querySelector('.dayOfWeek');
 Set DOM Elements
 ************/
 // Set the month
-month.innerText = allTheMonths[gotMonth];
+month.innerText = gotMonth;
 // Set day of the month
 dayOfMonth.innerText = gotDayOfMonth;
 // Set the year
 // year.innerText = gotYear;
 // Set the day of the week
 dayOfWeek.innerText = allTheDays[gotDayOfWeek];
+
+gotMonth = gotMonth < 10 ? month.innerText = `0${gotMonth}` : month.innerText = gotMonth;
