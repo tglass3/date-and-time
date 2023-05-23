@@ -25,13 +25,13 @@ main {
 }
 
 .hourBlock{
-  
+  font-size: 200px;
 }
 
 .minBlock{
-
+  font-size: 200px;
 }
 
 .dateBlock{
-
+  font-size: 48px;
 }
