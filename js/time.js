@@ -31,7 +31,7 @@ gotHours = gotHours < 10 ? `0${gotHours}` : gotHours;
 // Optionally, append zero to single digit minutes
 gotMinutes = gotMinutes < 10 ? `0${gotMinutes}` : gotMinutes;
 // Optionally, append zero to single digit seconds
-gotSeconds = gotSeconds < 10 ? `0${gotSeconds}` : gotSeconds;
+// gotSeconds = gotSeconds < 10 ? `0${gotSeconds}` : gotSeconds;
 
 /************
 Get DOM Elements
@@ -41,7 +41,7 @@ const hours = document.querySelector(".hours");
 // Get minutes
 const minutes = document.querySelector(".minutes");
 // Get seconds
-const seconds = document.querySelector(".seconds");
+// const seconds = document.querySelector(".seconds");
 // Get AM or PM
 const amOrPM = document.querySelector('.amOrPM');
 
@@ -53,7 +53,7 @@ hours.innerText = gotHours;
 // Set the minutes
 minutes.innerText = gotMinutes;
 // Set the seconds
-seconds.innerText = gotSeconds;
+// seconds.innerText = gotSeconds;
 // Set AM or PM
 amOrPM.innerText = gotAmOrPM;
   
