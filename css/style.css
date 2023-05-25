@@ -33,11 +33,11 @@ main {
   font-size: 200px;
 }
 
+.amOrPM{
+  font-size: 60pt;
+}
+
 .dateBlock{
   font-size: 48px;
 }
 
-.amOrPM{
-  font-size: 48px;
-  text-orientation: upright;
-}
