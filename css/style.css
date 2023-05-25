@@ -9,12 +9,8 @@ body {
   justify-content: center;
   align-content: center;
   height: 100vh;
- /*
-* Created with https://www.css-gradient.com
-* Gradient link: https://www.css-gradient.com/?c1=1a3250&c2=071526&gt=r&gd=dcc
-*/
-background: #1A3250;
-background: radial-gradient(at center, #1A3250, #071526);
+  background: #1A3250;
+  background: radial-gradient(at center, #1A3250, #071526);
 }
 
 /* Layout  */
@@ -22,6 +18,7 @@ main {
   width: 1194px;
   height: 834px;
   color: #BD995D;
+  font-family: 'Archivo-Black';
   
 }
 
@@ -38,6 +35,6 @@ main {
 }
 
 .dateBlock{
-  font-size: 42pt;
+  font-size: 45pt;
 }
 
