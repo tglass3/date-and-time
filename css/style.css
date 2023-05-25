@@ -19,22 +19,27 @@ main {
   height: 834px;
   color: #BD995D;
   font-family: 'Archivo-Black';
+  position: absolute;
   
 }
 
 .hourBlock{
   font-size: 200px;
+  position: relative;
 }
 
 .minBlock{
   font-size: 200px;
+  position: relative;
 }
 
 .amOrPM{
   font-size: 60pt;
+  position: relative;
 }
 
 .dateBlock{
   font-size: 45pt;
+  position: relative;
 }
 
