@@ -38,4 +38,5 @@ main {
 
 .amOrPM{
   font-size: 48px;
+  text-orientation: upright;
 }
