@@ -23,7 +23,7 @@ let gotSeconds = timeNow.getSeconds();
 Format Data
 ************/
 // Get AM or PM
-const gotAmOrPM = gotHours >= 12 ? 'P <br> M' : 'AM';
+const gotAmOrPM = gotHours >= 12 ? `P/nM` : 'AM';
 // Get 12 hour format
 // gotHours = gotHours % 12 || 12;
 // Optionally, append zero to single digit hours
